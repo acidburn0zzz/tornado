@@ -34,6 +34,6 @@ Pygments==2.0.2
 docutils==0.12
 mccabe==0.3
 pkginfo==1.2.1
-py==1.4.26
+py==1.10.0
 requests==2.5.1
 zope.interface==4.1.2
