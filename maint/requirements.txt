@@ -10,7 +10,7 @@
 certifi==14.5.14
 
 # Tornado's optional dependencies
-Twisted==15.0.0
+Twisted==23.8.0
 # pip on python 3.4 currently has trouble installing pycares.
 #pycares==0.6.1
 pycurl==7.19.5.1
