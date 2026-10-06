@@ -10,7 +10,7 @@
 certifi==14.5.14
 
 # Tornado's optional dependencies
-Twisted==15.0.0
+Twisted==26.4.0rc2
 # pip on python 3.4 currently has trouble installing pycares.
 #pycares==0.6.1
 pycurl==7.19.5.1
@@ -25,15 +25,15 @@ pyflakes==0.8.1
 sphinx-rtd-theme==0.1.6
 tox==1.8.1
 twine==1.4.0
-virtualenv==12.0.7
+virtualenv==21.7.13
 
 # Indirect dependencies
-Jinja2==2.7.3
+Jinja2==3.1.6
 MarkupSafe==0.23
-Pygments==2.0.2
+Pygments==2.20.0
 docutils==0.12
 mccabe==0.3
 pkginfo==1.2.1
-py==1.4.26
-requests==2.5.1
+py==1.11.0
+requests==2.33.0
 zope.interface==4.1.2
